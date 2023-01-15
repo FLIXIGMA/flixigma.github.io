@@ -1,7 +1,7 @@
 ﻿Free Coming soon Responsive Template
 ------------------------------------
 
-Tech-City free Coming Soon Bootstrap Responsive Template is a flat good looking modern design responsive template or landing page build on top of latest bootstrap html5 and css3. This theme has a jquery countdown plugin in build. This template designed with height quality standards to meet the latest requirement and it is a responsive template fits in all devices with multi browser support. Download for free.  
+Stylish bootstrap coming soon template is a super cool modern design responsive template or landing page build on top of latest bootstrap html5 and css3. This theme has a jquery countdown plugin in build. This template designed with height quality standards to meet the latest requirement and it is a responsive template fits in all devices with multi browser support. Download for free.  
 
 Credits :
 -------

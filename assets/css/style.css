@@ -1,36 +1,13 @@
 
-html {overflow-x:hidden;}
 body {
     background: #fff;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: #fff;
     text-align: center;
-} 
+}
 
-video { 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    transform: translateX(-50%) translateY(-50%); 
-  background-size: cover;
-  transition: 1s opacity;
-}
-.big-background {
-    z-index: 0;
-    text-align: center;
-    height: 100%;
-    min-height: 100%;
-    position: absolute;
-    overflow: hidden;
-    width: 100%;
-}
-strong { font-weight: 700; color: #FFFFFF;}
+strong { font-weight: 700; }
 
 a, a:hover, a:focus {
 	color: #FEFEFE;
@@ -59,22 +36,8 @@ img { max-width: 100%; }
 
 .coming-soon {
     margin: 0 auto;
-    position:relative;
-    overflow: hidden;
-    padding-bottom: 32px;
 }
-.coming-soon:before {
-    content: '';
-    background-color: rgb(9, 130, 249);
-    width: 113%;
-    z-index: 0;
-    height: 142%;
-    position: absolute;
-    left: -38%;
-    -ms-transform: rotate(20deg);
-    -webkit-transform: rotate(20deg);
-    transform: rotate(58deg);
-}
+
 .inner-bg {
     padding: 75px 0 40px 0;
 }
@@ -98,8 +61,9 @@ img { max-width: 100%; }
 .coming-soon p {
 	margin: 60px 0 10px 0;
 	padding: 0 120px;
+    
 	font-size: 20px;
-	line-height: 36px;
+    line-height: 36px;
 }
 
 .timer {
@@ -114,11 +78,12 @@ img { max-width: 100%; }
     width: 160px;
     margin: 0 10px;
     font-size: 18px;
+    /* border: 1px solid rgba(255, 255, 255, 0.41); */
     padding: 25px 10px;
-    background-color: rgba(255, 255, 255, 0.17);
-    border-radius: 0;
-    border: 1px solid rgba(255, 255, 255, 0.37);
-    box-shadow: 1px 0px 4px #5F5F5F;
+    /* border-style: dashed; */
+    background-color: rgba(0, 0, 0, 0.17);
+    /* border-bottom-color: #F02020; */
+    border-bottom: solid rgba(240, 32, 32, 0.84) 2px;
 }
 
 .timer .days,
@@ -151,6 +116,8 @@ img { max-width: 100%; }
 footer {
 	margin-top: 60px;
 	padding: 20px 0 15px 0;
+	background: #3d3d3d;
+	background: rgba(222, 211, 211, 0.14);
 }
 
 .footer-copyright p {
@@ -223,32 +190,35 @@ input[type="text"]::-webkit-input-placeholder { color: #fff; }
 
 .subscribe button {
 	height: 52px;
-	margin: 0;
-	padding: 0 20px;
-	vertical-align: middle;
-	background: #616161;
-	border: 0;
-	font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    
+	background: #C91D28;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    
 	font-size: 19px;
-	font-weight: 300;
-	line-height: 52px;
-	color: #fff;
-	-moz-border-radius: 6px;
-	-webkit-border-radius: 6px;
+    font-weight: 300;
+    line-height: 52px;
+    color: #fff;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    
 	border-radius: 0;
-	text-shadow: none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	box-shadow: none;
-	-o-transition: all .3s;
-	-moz-transition: all .3s;
-	-webkit-transition: all .3s;
-	-ms-transition: all .3s;
-	transition: all .3s;
+    text-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
 }
 
 .subscribe button:hover {
-    background: #040404;
+    background: #BC1620;
     color: #fff;
     -o-transition: all .3s;
     -moz-transition: all .3s;
