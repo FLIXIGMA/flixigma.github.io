@@ -1,13 +1,12 @@
-Bootstrap/HTML5 Responsive Template
+﻿Free Coming soon Responsive Template
+------------------------------------
 
-Cloud hosting free Bootstrap responsive website template is a flat modern HTML5 Bootstrap template suits web hosting business and also fits to  all types of business, consultancy, portfolio, agency and many more. This template is built using latest Bootstrap, html5 and css3 which is very easy to customise the theme as per your requirements. This template designed with height quality standards to meet the latest requirement and it is a responsive template fits in all devices with multi browser support. Download for free.  
+Tech-City free Coming Soon Bootstrap Responsive Template is a flat good looking modern design responsive template or landing page build on top of latest bootstrap html5 and css3. This theme has a jquery countdown plugin in build. This template designed with height quality standards to meet the latest requirement and it is a responsive template fits in all devices with multi browser support. Download for free.  
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+=> Design and developed: "WebThemez"  http://webthemez.com 
+=> For more free web themes: http://webthemez.com 
 
 Important Note:
 ---------------
@@ -21,7 +20,7 @@ License :
 
 - You are allowed to use all files for both personal and commercial projects.
 
-- If you use/modify the resources in your projects,we�d appreciate a linkback to this site.
+- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
 
 - You do not have rights to redistribute,resell or offer files from this site to any third party
 
